@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ろーるぷれいんぐ",
+  "base_artist": "yosugala",
+  "createdAt": "2026-01-02T09:41:55.574956Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ろーるぷれいんぐ",
+      "artist": "yosugala",
+      "has_synced": false,
+      "path": "select/pl_01_ろーるぷれいんぐ_yosugala.txt"
+    }
+  ]
+}
